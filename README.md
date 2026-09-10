@@ -5,7 +5,7 @@ An open-source, ultra-safe, low-cost (₹2,500–₹3,000) energy recovery bluep
 
 ---
 
-![The 3rd Eye of Creation - Human + AI Synergy](./Third_Eye_Human_AI_Synergy_v3.png)
+![The 3rd Eye of Creation - Human + AI Synergy](./Code_Generated_Image.png)
 
 ---
 
